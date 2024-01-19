@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+
+    <string name="fullname" translatable="false">Willis Ochieng\'</string>
+    <string name="title" translatable="false">Junior Android Developer</string>
+    <string name="contact" translatable="false">+254791152735</string>
+    <string name="social_media_handle" translatable="false">\@WillisOgecha1</string>
+    <string name="email" translatable="false">ogechawillis@gmail.com</string>
+</resources>
